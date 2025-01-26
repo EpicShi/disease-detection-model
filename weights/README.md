@@ -1,0 +1,2 @@
+We could not upload the original model weights due to the size limit. So, we have uploaded the model weights in a compressed format. You can download the model weights from:
+[https://www.mediafire.com/file/1j3dwd2pzs7xc13/weights.rar/file](https://www.mediafire.com/file/1j3dwd2pzs7xc13/weights.rar/file).
