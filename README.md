@@ -11,13 +11,6 @@ Model Weights:
 
 ---
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [File Structure](#file-structure)
-- [Model](#model)
-- [License](#license)
-
 ## Usage
 1. Download and place the model weights file (`plant_disease_classifier.h5`) in the `weights` directory. (optional)
 
