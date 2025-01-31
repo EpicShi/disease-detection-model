@@ -20,4 +20,4 @@ DISEASE_DESCRIPTION = {
     "Rust": "Rust is a common Disease caused by various fungi. It appears as orange, yellow, or reddish-brown pustules on the leaves, stems, or fruit of infected plants. Rust can weaken the plant, reduce photosynthesis, and affect the overall health of the plant. It is important to treat rust early to prevent its spread and protect the plant from further damage.",
 }
 
-API_URL = "https://arpy8-plant-detection-api.hf.space/predict"
+API_URL = "https://arpy8-drishti-api.hf.space/predict"
