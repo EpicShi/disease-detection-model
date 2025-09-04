@@ -54,7 +54,7 @@ def main():
                 This is a web app to predict the disease in a plant using Convolutional Neural Network (CNN).
                 
                 # Contact
-                For inquiries, you can mail us [here](mailto:arpitsengar99@gmail.com).
+                For inquiries, you can mail us [here](mailto:bhagyashree.tanwar029@gmail.com).
                 """)
 
     home_page = st.empty()
@@ -94,3 +94,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
